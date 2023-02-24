@@ -1,2 +1,1 @@
-# Linux Shell Practice
-# data_structures_practice
+# Practicing Data Structures
